@@ -3,7 +3,7 @@ int m = 150;
 int function()
 {
     int n = 50;
-    printf("Lcal variable (variable in Function): %d \n", n);
+    printf("Local variable (variable in Function): %d \n", n);
     printf("Global variable (variable in Function): %d \n", m);
 }
 int _static_function()
