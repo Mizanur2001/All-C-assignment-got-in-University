@@ -1,1 +1,1 @@
-Virtual world I am the woner of Virtual Wold power By Mizanur Rahaman james..
+Virtual world I am the woner of Virtual Wold power By Mizanur Rahaman james..cd "d:\Computer Aliah University\Assignment\" ; if ($?) { gcc 35_fibhœ5wci.c -o 35_fibonacci } ; if ($?) { .\35_fibonacci }
